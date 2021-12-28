@@ -6,7 +6,7 @@
 ```
 Suppose U entered.
 Salman
-Katrina
+Katrina.
 
 Then it will use two strings
 
